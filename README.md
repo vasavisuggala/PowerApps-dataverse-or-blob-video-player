@@ -67,7 +67,7 @@ Add a Video control and set the Media property as shown above
 
 ---
 📸 Sample UI
-/screenshots/dataverse-video-ui.png
+- /screenshots/dataverse-video-ui.png
 
 
 ## ⚙️ Solution 2: Play Video from Azure Blob – with Just a Formula
