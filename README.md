@@ -103,5 +103,5 @@ Already storing files in Blob? You can still stream videos dynamically using jus
 
 
 🙌 Credits
-Special thanks to  ![Dileep](https://www.linkedin.com/in/dileepsuggala/)
+Special thanks to  [Dileep](https://www.linkedin.com/in/dileepsuggala/)
 
