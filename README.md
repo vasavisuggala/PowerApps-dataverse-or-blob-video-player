@@ -66,8 +66,9 @@ Add a Video control and set the Media property as shown above
 🔒 Note: Works perfectly for internal authenticated users (not public links)
 
 ---
-📸 Sample UI
-- /screenshots/dataverse-video-ui.png
+# 📸 Sample UI
+
+- ![Video playback from Dataverse](https://github.com/vasavisuggala/PowerApps-dataverse-or-blob-video-player/blob/screenshots/dataverse-video-ui.png)
 
 
 ## ⚙️ Solution 2: Play Video from Azure Blob – with Just a Formula
@@ -102,5 +103,5 @@ Already storing files in Blob? You can still stream videos dynamically using jus
 
 
 🙌 Credits
-Special thanks to [Dileep] for triggering this exploration and proving that low-code can solve high-effort problems with just one line.
+Special thanks to  ![Dileep](https://www.linkedin.com/in/dileepsuggala/)
 
